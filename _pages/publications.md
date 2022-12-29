@@ -73,7 +73,7 @@ Jack W. Stokes, Reid Andersen, Christian Seifert, and Kumar Chellapilla, WebCop:
 
 Behnaz Arzani , Selim Ciraci , Stefan Saroiu, Alec Wolman, Jack W. Stokes, Geoff Outhred, Lechao Diwu, PrivateEye: Scalable and Privacy-Preserving Compromise Detection in the Cloud, USENIX Symposium on Networked Systems Design and Implementation (NSDI), February 2020.
 
-Md Amran Siddiqui, Jack W. Stokes, Christian Seifert, Evan Argyle, Robert McCann, Joshua Neil, Justin Carroll, Detecting Cyber Attacks Using Anomaly Detection with Explanations and Expert Feedback, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, England, May 2019.
+Md Amran Siddiqui, Jack W. Stokes, Christian Seifert, Evan Argyle, Robert McCann, Joshua Neil, Justin Carroll, Detecting Cyber Attacks Using Anomaly Detection with Explanations and Expert Feedback, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, England, May 2019.
 
 Qingyun Liu, Jack W. Stokes, Rob Mead, Tim Burrell, Ian Hellen, John Lambert, Andrey Marochko, Weidong Cui, Latte: Large-Scale Lateral Movement Detection, Proceedings IEEE Military Communications Conference (MILCOM), Los Angeles, CA, October 2018.
 
