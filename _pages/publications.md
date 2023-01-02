@@ -43,7 +43,7 @@ Shayok Chakraborty, Jack W. Stokes, Lin Xiao, Dengyong Zhou, Mady Marinescu, Ani
 
 Ben Athiwaratkun, Jack W. Stokes, Malware Classification with LSTM and GRU Language Models and a Character-Level CNN, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), New Orleans, LA, March 2017.
 
-Wenyi Huang, Jack W. Stokes, MtNet: A Multi-Task Neural Network for Dynamic Malware Classification, Proceedings of Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), July 2016.
+Wenyi Huang, Jack W. Stokes, <a href="../files/HuangDimva2016.pdf">MtNet: A Multi-Task Neural Network for Dynamic Malware Classification</a>, Proceedings of Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), July 2016.
 
 Razvan Pascanu, Jack W. Stokes, Hermineh Sanossian, Mady Marinescu, Anil Thomas, Malware Classification With Recurrent Networks, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brisbane, Australia, April, 2015.
 
