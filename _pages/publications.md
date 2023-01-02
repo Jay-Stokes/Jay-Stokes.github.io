@@ -37,7 +37,7 @@ Jack W. Stokes, De Wang, Mady Marinsescu, Marc Marino, Brian Bussone, <a href=".
 
 Rakshit Agrawal, Jack W. Stokes, Mady Marinescu, Karthik Selvaraj, Robust Neural Malware Detection Models for Emulation Sequence Learning, Proceedings IEEE Military Communications Conference (MILCOM), Los Angeles, CA, October 2018.
 
-Rakshit Agrawal, Jack W. Stokes, Mady Marinescu, Karthik Selvaraj, Neural Sequential Malware Detection with Parameters, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Calgary, Alberta, CA, April 2018.
+Rakshit Agrawal, Jack W. Stokes, Mady Marinescu, Karthik Selvaraj,  <a href="../files/AgrawalIcassp2018.pdf">Neural Sequential Malware Detection with Parameters</a>, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Calgary, Alberta, CA, April 2018.
 
 Shayok Chakraborty, Jack W. Stokes, Lin Xiao, Dengyong Zhou, Mady Marinescu, Anil Thomas, Hierarchical Learning for Automated Malware Classification, Proceedings IEEE Military Communications Conference (MILCOM), Baltimore, MD, October 2017.
 
