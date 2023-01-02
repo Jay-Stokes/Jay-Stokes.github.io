@@ -35,7 +35,7 @@ Rakshit Agrawal, Jack W. Stokes, Karthik Selvaraj, Mady Marinescu, Attention in 
 
 Jack W. Stokes, De Wang, Mady Marinsescu, Marc Marino, Brian Bussone, <a href="../files/StokesMilcom2018.pdf">Attack and Defense of Dynamic Analysis-Based, Adversarial Neural Malware Detection Models</a>, Proceedings IEEE Military Communications Conference (MILCOM), Los Angeles, CA, October 2018.
 
-Rakshit Agrawal, Jack W. Stokes, Mady Marinescu, Karthik Selvaraj, Robust Neural Malware Detection Models for Emulation Sequence Learning, Proceedings IEEE Military Communications Conference (MILCOM), Los Angeles, CA, October 2018.
+Rakshit Agrawal, Jack W. Stokes, Mady Marinescu, Karthik Selvaraj, <a href="../files/AgrawalMilcom2018.pdf">Robust Neural Malware Detection Models for Emulation Sequence Learning</a>, Proceedings IEEE Military Communications Conference (MILCOM), Los Angeles, CA, October 2018.
 
 Rakshit Agrawal, Jack W. Stokes, Mady Marinescu, Karthik Selvaraj,  <a href="../files/AgrawalIcassp2018.pdf">Neural Sequential Malware Detection with Parameters</a>, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Calgary, Alberta, CA, April 2018.
 
