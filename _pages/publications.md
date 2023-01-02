@@ -23,7 +23,7 @@ Farid Tajaddodianfar, Jack W. Stokes, Arun Gururajan, TEXCEPTION: A Character/Wo
 
 Edward J. Chou, Arun Gururajan, Kim Laine, Nitin Kumar Goel, Anna Bertiger, Jack W. Stokes, Privacy Preserving Phishing Web Page Classification Via Fully Homomorphic Encryption, Proceedings IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
 
-Yu Wang, Jack W. Stokes, Mady Marinescu, Actor Critic Deep Reinforcement Learning for Neural Malware Control, Proceedings AAAI Conference on Artificial Intelligence (AAAI), New York, NY, February 2020.
+Yu Wang, Jack W. Stokes, Mady Marinescu, <a href=https://ojs.aaai.org/index.php/AAAI/article/view/5449">Actor Critic Deep Reinforcement Learning for Neural Malware Control</a>, Proceedings AAAI Conference on Artificial Intelligence (AAAI), New York, NY, February 2020.
 
 Jack W. Stokes, Rakshit Agrawal, Geoff McDonald and Matthew Hausknecht, ScriptNet: Neural Static Analysis for Malicious JavaScript Detection, Proceedings IEEE Military Communications Conference (MILCOM), Norfolk, VA, November 2019.
 
