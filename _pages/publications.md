@@ -71,7 +71,7 @@ Jack W. Stokes, Reid Andersen, Christian Seifert, and Kumar Chellapilla, WebCop:
 
 ## Network Security
 
-Behnaz Arzani , Selim Ciraci , Stefan Saroiu, Alec Wolman, Jack W. Stokes, Geoff Outhred, Lechao Diwu, <a href="https://www.usenix.org/system/files/nsdi20-paper-arzani.pdf">,PrivateEye: Scalable and Privacy-Preserving Compromise Detection in the Cloud/a>, USENIX Symposium on Networked Systems Design and Implementation (NSDI), February 2020.
+Behnaz Arzani , Selim Ciraci , Stefan Saroiu, Alec Wolman, Jack W. Stokes, Geoff Outhred, Lechao Diwu, <a href="https://www.usenix.org/system/files/nsdi20-paper-arzani.pdf">,PrivateEye: Scalable and Privacy-Preserving Compromise Detection in the Cloud</a>, USENIX Symposium on Networked Systems Design and Implementation (NSDI), February 2020.
 
 Md Amran Siddiqui, Jack W. Stokes, Christian Seifert, Evan Argyle, Robert McCann, Joshua Neil, Justin Carroll, Detecting Cyber Attacks Using Anomaly Detection with Explanations and Expert Feedback, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, England, May 2019.
 
