@@ -25,7 +25,7 @@ Edward J. Chou, Arun Gururajan, Kim Laine, Nitin Kumar Goel, Anna Bertiger, Jack
 
 Yu Wang, Jack W. Stokes, Mady Marinescu, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/5449">Actor Critic Deep Reinforcement Learning for Neural Malware Control</a>, Proceedings AAAI Conference on Artificial Intelligence (AAAI), New York, NY, February 2020.
 
-Jack W. Stokes, Rakshit Agrawal, Geoff McDonald and Matthew Hausknecht, ScriptNet: Neural Static Analysis for Malicious JavaScript Detection, Proceedings IEEE Military Communications Conference (MILCOM), Norfolk, VA, November 2019.
+Jack W. Stokes, Rakshit Agrawal, Geoff McDonald and Matthew Hausknecht, <a href="../files/ScriptNet_Milcom2019.pdf">ScriptNet: Neural Static Analysis for Malicious JavaScript Detection</a>, Proceedings IEEE Military Communications Conference (MILCOM), Norfolk, VA, November 2019.
 
 Yu Wang, Jack W. Stokes, Mady Marinescu, Neural Malware Control with Deep Reinforcement Learning, Proceedings IEEE Military Communications Conference (MILCOM), Norfolk, VA, November 2019.
 
