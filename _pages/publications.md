@@ -33,7 +33,7 @@ Jack W. Stokes, Christian Seifert, Jerry Li and Nizar Hejazi, Detection of Preva
 
 Rakshit Agrawal, Jack W. Stokes, Karthik Selvaraj, Mady Marinescu, Attention in Recurrent Neural Networks for Ransomware Detection, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, England, May 2019.
 
-Jack W. Stokes, De Wang, Mady Marinsescu, Marc Marino, Brian Bussone, Attack and Defense of Dynamic Analysis-Based, Adversarial Neural Malware Detection Models, Proceedings IEEE Military Communications Conference (MILCOM), Los Angeles, CA, October 2018.
+Jack W. Stokes, De Wang, Mady Marinsescu, Marc Marino, Brian Bussone, <a href="../files/StokesMilcom2018.pdf">,Attack and Defense of Dynamic Analysis-Based, Adversarial Neural Malware Detection Models</a>, Proceedings IEEE Military Communications Conference (MILCOM), Los Angeles, CA, October 2018.
 
 Rakshit Agrawal, Jack W. Stokes, Mady Marinescu, Karthik Selvaraj, Robust Neural Malware Detection Models for Emulation Sequence Learning, Proceedings IEEE Military Communications Conference (MILCOM), Los Angeles, CA, October 2018.
 
