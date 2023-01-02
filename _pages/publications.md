@@ -7,7 +7,7 @@ author_profile: true
 
 ## Media Provenance
 
-Imani N. Sherman, Jack W. Stokes, Elissa M. Redmiles, Designing Media Provenance Indicators to Combat Fake Media, Proceedings International Symposium on Research in Attacks, Intrusions and Defenses (RAID), October 2021.
+Imani N. Sherman, Jack W. Stokes, Elissa M. Redmiles, <a href="https://dl.acm.org/doi/10.1145/3471621.3471860">Designing Media Provenance Indicators to Combat Fake Media</a>, Proceedings International Symposium on Research in Attacks, Intrusions and Defenses (RAID), October 2021.
 
 Paul England, Henrique S. Malvar, Eric Horvitz, Jack W. Stokes, C´edric Fournet, Rebecca Burke-Aguero, Amaury Chamayou, Sylvan Clebsch, Manuel Costa, John Deutscher, Shabnam Erfani, Matt Gaylor, Andrew Jenks, Kevin Kane, Elissa M. Redmiles, Alex Shamis, Isha Sharma, John C. Simmons, Sam Wenker, Anika Zaman. AMP: authentication of media via provenance. Proceedings ACM Multimedia Systems Conference (MMSys). Association for Computing Machinery, New York, NY, USA, 108–121, July 2021.
 
