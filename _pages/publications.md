@@ -57,7 +57,7 @@ Jack W. Stokes, John C. Platt, Helen J. Wang, Joe Faulhaber, Jonathan Keller, Ma
 
 Pranav Maneriker, Jack W. Stokes, Edir Garcia Lazo, Diana Carutasu, Farid Tajaddodianfar and Arun Gururajan, ”URLTran: Improving Phishing URL Detection Using Transformers,” Proceedings IEEE Military Communications Conference (MILCOM), 2021, pp. 197-204.
 
-Maryam Zulfiqar, Muhammad Umar Janjua, Muhammad Hassan, Talha Ahmad, Tania; Saleem, Jack W. Stokes, Tracking Adoption of Revocation and Cryptographic Features in X.509 Certificates, International Journal of Information Security, 21, 653-668, November 2021.
+Maryam Zulfiqar, Muhammad Umar Janjua, Muhammad Hassan, Talha Ahmad, Tania; Saleem, Jack W. Stokes, <a href="https://link.springer.com/epdf/10.1007/s10207-021-00572-5?sharing_token=bCsExx4gocU2nr7ABm0Y4fe4RwlQNchNByi7wbcMAY4_DlVF3GfbHcP2xcBPYO-2ZDBPBvkZu3suvv43KGFmlTJu8AxcwMD-VnY3GqzohH2jM_bBeK0z4WhnrKuKXd3zs39yrk9xQD9v9B_aOr5g8KPwt9WLXMxSKVE0nnwCMDw=">Tracking Adoption of Revocation and Cryptographic Features in X.509 Certificates</a>, International Journal of Information Security, 21, 653-668, November 2021.
 
 Jinyuan Jia, Zheng Dong, Jie Li, Jack W. Stokes, Detection Of Malicious DNS and Web Servers using Graph-Based Approaches,Proceedings IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June 2021, pp. 2625-2629.
 
