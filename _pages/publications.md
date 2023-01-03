@@ -75,7 +75,7 @@ Behnaz Arzani , Selim Ciraci , Stefan Saroiu, Alec Wolman, Jack W. Stokes, Geoff
 
 Md Amran Siddiqui, Jack W. Stokes, Christian Seifert, Evan Argyle, Robert McCann, Joshua Neil, Justin Carroll,  <a href="../files/SiddiquiIcassp2019.pdf">Detecting Cyber Attacks Using Anomaly Detection with Explanations and Expert Feedback</a>, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, England, May 2019.
 
-Qingyun Liu, Jack W. Stokes, Rob Mead, Tim Burrell, Ian Hellen, John Lambert, Andrey Marochko, Weidong Cui, Latte: Large-Scale Lateral Movement Detection, Proceedings IEEE Military Communications Conference (MILCOM), Los Angeles, CA, October 2018.
+Qingyun Liu, Jack W. Stokes, Rob Mead, Tim Burrell, Ian Hellen, John Lambert, Andrey Marochko, Weidong Cui, <a href="../files/Milcom2018_Liu.pdf">Latte: Large-Scale Lateral Movement Detection</a>, Proceedings IEEE Military Communications Conference (MILCOM), Los Angeles, CA, October 2018.
 
 Jack W. Stokes, Himanshu Chandola, Tim Burrell, Christian Seifert, MART: Targeted Attack Detection on a Compromised Network, Proceedings IEEE Military Communications Conference (MILCOM), Baltimore, MD, November 2016.
 
