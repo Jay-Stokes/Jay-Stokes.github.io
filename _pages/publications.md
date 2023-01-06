@@ -21,7 +21,7 @@ Jack W. Stokes, Rakshit Agrawal, Geoff McDonald, <a href="../files/VbsNet_Icassp
 
 Farid Tajaddodianfar, Jack W. Stokes, Arun Gururajan, <a href="../files/Texception_Icassp20.pdf">Texception: A Character/Word-Level Deep Learning Model for Phishing URL Detection</a>, Proceedings IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
 
-Edward J. Chou, Arun Gururajan, Kim Laine, Nitin Kumar Goel, Anna Bertiger, Jack W. Stokes, Privacy Preserving Phishing Web Page Classification Via Fully Homomorphic Encryption, Proceedings IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
+Edward J. Chou, Arun Gururajan, Kim Laine, Nitin Kumar Goel, Anna Bertiger, Jack W. Stokes, <a href="../files/HePhish_Icassp20.pdf">Privacy Preserving Phishing Web Page Classification Via Fully Homomorphic Encryption</a>, Proceedings IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
 
 Yu Wang, Jack W. Stokes, Mady Marinescu, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/5449">Actor Critic Deep Reinforcement Learning for Neural Malware Control</a>, Proceedings AAAI Conference on Artificial Intelligence (AAAI), New York, NY, February 2020.
 
