@@ -27,7 +27,7 @@ Yu Wang, Jack W. Stokes, Mady Marinescu, <a href="https://ojs.aaai.org/index.php
 
 Jack W. Stokes, Rakshit Agrawal, Geoff McDonald and Matthew Hausknecht, <a href="../files/ScriptNet_Milcom2019.pdf">ScriptNet: Neural Static Analysis for Malicious JavaScript Detection</a>, Proceedings IEEE Military Communications Conference (MILCOM), Norfolk, VA, November 2019.
 
-Yu Wang, Jack W. Stokes, Mady Marinescu, Neural Malware Control with Deep Reinforcement Learning, Proceedings IEEE Military Communications Conference (MILCOM), Norfolk, VA, November 2019.
+Yu Wang, Jack W. Stokes, Mady Marinescu, <a href="../files/NeuralMalwareControl_Milcom_2019.pdf">Neural Malware Control with Deep Reinforcement Learning</a>, Proceedings IEEE Military Communications Conference (MILCOM), Norfolk, VA, November 2019.
 
 Jack W. Stokes, Christian Seifert, Jerry Li and Nizar Hejazi, Detection of Prevalent Malware Families with Deep Learning, Proceedings IEEE Military Communications Conference (MILCOM), Norfolk, VA, November 2019.
 
