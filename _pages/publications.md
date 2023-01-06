@@ -79,7 +79,7 @@ Qingyun Liu, Jack W. Stokes, Rob Mead, Tim Burrell, Ian Hellen, John Lambert, An
 
 Jack W. Stokes, Himanshu Chandola, Tim Burrell, Christian Seifert, <a href="../files/MART_milcom2016.pdf">MART: Targeted Attack Detection on a Compromised Network</a>, Proceedings IEEE Military Communications Conference (MILCOM), Baltimore, MD, November 2016.
 
-Jack W. Stokes, John C. Platt, Joseph Kravis, and Michael Shilman, ALADIN: Active Learning of Anomalies to Detect Intrusions, Microsoft Research Technical Report MSR-TR-2008-24, March 4, 2008.
+Jack W. Stokes, John C. Platt, Joseph Kravis, and Michael Shilman, <a href="../files/aladinTechReport.pdf">ALADIN: Active Learning of Anomalies to Detect Intrusions</a>, Microsoft Research Technical Report MSR-TR-2008-24, March 4, 2008.
 
 Jack W. Stokes, John C. Platt, Joseph Kravis, and Michael Shilman, <a href="../files/jackStokesAladin.pdf">ALADIN: Active Learning for Statistical Intrusion Detection</a>, Neural Information Processing Systems Workshop on “Machine Learning in Adversarial Environments”, NIPS, Whistler BC, December 8, 2007.
 
