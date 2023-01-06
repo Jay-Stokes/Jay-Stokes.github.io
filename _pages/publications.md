@@ -41,7 +41,7 @@ Rakshit Agrawal, Jack W. Stokes, Mady Marinescu, Karthik Selvaraj,  <a href="../
 
 Shayok Chakraborty, Jack W. Stokes, Lin Xiao, Dengyong Zhou, Mady Marinescu, Anil Thomas, <a href="../files/ChakrabortyMilcom2017.pdf">Hierarchical Learning for Automated Malware Classification</a>, Proceedings IEEE Military Communications Conference (MILCOM), Baltimore, MD, October 2017.
 
-Ben Athiwaratkun, Jack W. Stokes, Malware Classification with LSTM and GRU Language Models and a Character-Level CNN, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), New Orleans, LA, March 2017.
+Ben Athiwaratkun, Jack W. Stokes, <a href="../files/LstmGruCnnMalwareClassifier.pdf">Malware Classification with LSTM and GRU Language Models and a Character-Level CNN</a>, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), New Orleans, LA, March 2017.
 
 Wenyi Huang, Jack W. Stokes, <a href="../files/HuangDimva2016.pdf">MtNet: A Multi-Task Neural Network for Dynamic Malware Classification</a>, Proceedings of Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), July 2016.
 
