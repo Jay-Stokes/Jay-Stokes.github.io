@@ -49,7 +49,7 @@ Razvan Pascanu, Jack W. Stokes, Hermineh Sanossian, Mady Marinescu, Anil Thomas,
 
 George Dahl, Jack W. Stokes, Li Deng, Dong Yu, <a href="../files/MalwareRandomProjections.pdf">Large-Scale Malware Classification Using Random Projections and Neural Networks</a>, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Vancouver, BC Canada, May, 2013.
 
-Nikos Karampatziakis, Jack W. Stokes, Anil Thomas, and Mady Marinescu, Using File Relationships in Malware Classification, Proceedings of Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), July 2012.
+Nikos Karampatziakis, Jack W. Stokes, Anil Thomas, and Mady Marinescu, <a href="../files/UsingFileRelationshipsinMalwareClassification.pdf">Using File Relationships in Malware Classification</a>, Proceedings of Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), July 2012.
 
 Jack W. Stokes, John C. Platt, Helen J. Wang, Joe Faulhaber, Jonathan Keller, Mady Marinescu, Anil Thomas and Marius Gheorghescu, Scalable Telemetry Classification for Automated Malware Detection, Proceedings of European Symposium on Research in Computer Security (ESORICS), September 2012.
 
