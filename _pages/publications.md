@@ -67,7 +67,7 @@ Christian Seifert, Jack W. Stokes, Christina Colcernian, John C. Platt, and Long
 
 Junjie Zhang, Christian Seifert, Jack W. Stokes, and Wenke Lee, <a href="../files/zhangArrow.pdf">ARROW: Generating Signatures to Detect Drive-By Downloads</a>, Proceedings of 20th Annual World Wide Web Conference (WWW), March 28, 2011.
 
-Jack W. Stokes, Reid Andersen, Christian Seifert, and Kumar Chellapilla, WebCop: Locating Neighborhoods of Malware on the Web, 3rd Usenix Workshop on Large-Scale Exploits and Emerging Threats (LEET), April 27, 2010.
+Jack W. Stokes, Reid Andersen, Christian Seifert, and Kumar Chellapilla, <a href="../files/jstokesWebCop.pdf">WebCop: Locating Neighborhoods of Malware on the Web</a>, 3rd Usenix Workshop on Large-Scale Exploits and Emerging Threats (LEET), April 27, 2010.
 
 ## Network Security
 
