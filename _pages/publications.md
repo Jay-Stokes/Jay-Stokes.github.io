@@ -77,7 +77,7 @@ Md Amran Siddiqui, Jack W. Stokes, Christian Seifert, Evan Argyle, Robert McCann
 
 Qingyun Liu, Jack W. Stokes, Rob Mead, Tim Burrell, Ian Hellen, John Lambert, Andrey Marochko, Weidong Cui, <a href="../files/Milcom2018_Liu.pdf">Latte: Large-Scale Lateral Movement Detection</a>, Proceedings IEEE Military Communications Conference (MILCOM), Los Angeles, CA, October 2018.
 
-Jack W. Stokes, Himanshu Chandola, Tim Burrell, Christian Seifert, MART: Targeted Attack Detection on a Compromised Network, Proceedings IEEE Military Communications Conference (MILCOM), Baltimore, MD, November 2016.
+Jack W. Stokes, Himanshu Chandola, Tim Burrell, Christian Seifert, <a href="../files/MART_milcom2016.pdf">MART: Targeted Attack Detection on a Compromised Network</a>, Proceedings IEEE Military Communications Conference (MILCOM), Baltimore, MD, November 2016.
 
 Jack W. Stokes, John C. Platt, Joseph Kravis, and Michael Shilman, ALADIN: Active Learning of Anomalies to Detect Intrusions, Microsoft Research Technical Report MSR-TR-2008-24, March 4, 2008.
 
