@@ -81,7 +81,7 @@ Jack W. Stokes, Himanshu Chandola, Tim Burrell, Christian Seifert, <a href="../f
 
 Jack W. Stokes, John C. Platt, Joseph Kravis, and Michael Shilman, ALADIN: Active Learning of Anomalies to Detect Intrusions, Microsoft Research Technical Report MSR-TR-2008-24, March 4, 2008.
 
-Jack W. Stokes, John C. Platt, Joseph Kravis, and Michael Shilman, ALADIN: Active Learning for Statistical Intrusion Detection, Neural Information Processing Systems Workshop on “Machine Learning in Adversarial Environments”, NIPS, Whistler BC, December 8, 2007.
+Jack W. Stokes, John C. Platt, Joseph Kravis, and Michael Shilman, <a href="../files/jackStokesAladin.pdf">ALADIN: Active Learning for Statistical Intrusion Detection</a>, Neural Information Processing Systems Workshop on “Machine Learning in Adversarial Environments”, NIPS, Whistler BC, December 8, 2007.
 
 ## Machine Learning
 
