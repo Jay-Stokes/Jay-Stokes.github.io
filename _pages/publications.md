@@ -17,7 +17,7 @@ J. Aythora, R. Burke-Ag¨uero, A. Chamayou, S. Clebsch, M. Costa, N. Earnshaw, L
 
 Talha Ongun, Jack W. Stokes, Jonathan Bar Or, Ke Tian, Farid Tajaddodianfar, Joshua Neil, Christian Seifert, Alina Oprea, and John C. Platt. <a href="https://arxiv.org/pdf/2111.15039.pdf">Living-Off-The-Land Command Detection Using Active Learning</a>. In Proceedings of the 24th International Symposium on Research in Attacks, Intrusions and Defenses (RAID). Association for Computing Machinery, New York, NY, USA, 442–455.
 
-Jack W. Stokes, Rakshit Agrawal, Geoff McDonald, Detection of Malicious VBScript Using Static and Dynamic Analysis with Recurrent Deep Learning, Proceedings IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
+Jack W. Stokes, Rakshit Agrawal, Geoff McDonald, <a href="../files/VbsNet_Icassp2020.pdf">Detection of Malicious VBScript Using Static and Dynamic Analysis with Recurrent Deep Learning</a>, Proceedings IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
 
 Farid Tajaddodianfar, Jack W. Stokes, Arun Gururajan, TEXCEPTION: A Character/Word-Level Deep Learning Model for Phishing URL Detection, Proceedings IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
 
