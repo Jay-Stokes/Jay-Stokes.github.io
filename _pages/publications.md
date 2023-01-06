@@ -51,7 +51,7 @@ George Dahl, Jack W. Stokes, Li Deng, Dong Yu, <a href="../files/MalwareRandomPr
 
 Nikos Karampatziakis, Jack W. Stokes, Anil Thomas, and Mady Marinescu, <a href="../files/UsingFileRelationshipsinMalwareClassification.pdf">Using File Relationships in Malware Classification</a>, Proceedings of Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), July 2012.
 
-Jack W. Stokes, John C. Platt, Helen J. Wang, Joe Faulhaber, Jonathan Keller, Mady Marinescu, Anil Thomas and Marius Gheorghescu, Scalable Telemetry Classification for Automated Malware Detection, Proceedings of European Symposium on Research in Computer Security (ESORICS), September 2012.
+Jack W. Stokes, John C. Platt, Helen J. Wang, Joe Faulhaber, Jonathan Keller, Mady Marinescu, Anil Thomas and Marius Gheorghescu, <a href="../files/stokesScalableTelemetry.pdf">Scalable Telemetry Classification for Automated Malware Detection</a>, Proceedings of European Symposium on Research in Computer Security (ESORICS), September 2012.
 
 ## Web Security
 
