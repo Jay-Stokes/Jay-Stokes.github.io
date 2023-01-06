@@ -39,7 +39,7 @@ Rakshit Agrawal, Jack W. Stokes, Mady Marinescu, Karthik Selvaraj, <a href="../f
 
 Rakshit Agrawal, Jack W. Stokes, Mady Marinescu, Karthik Selvaraj,  <a href="../files/AgrawalIcassp2018.pdf">Neural Sequential Malware Detection with Parameters</a>, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Calgary, Alberta, CA, April 2018.
 
-Shayok Chakraborty, Jack W. Stokes, Lin Xiao, Dengyong Zhou, Mady Marinescu, Anil Thomas, Hierarchical Learning for Automated Malware Classification, Proceedings IEEE Military Communications Conference (MILCOM), Baltimore, MD, October 2017.
+Shayok Chakraborty, Jack W. Stokes, Lin Xiao, Dengyong Zhou, Mady Marinescu, Anil Thomas, <a href="../files/ChakrabortyMilcom2017.pdf">Hierarchical Learning for Automated Malware Classification</a>, Proceedings IEEE Military Communications Conference (MILCOM), Baltimore, MD, October 2017.
 
 Ben Athiwaratkun, Jack W. Stokes, Malware Classification with LSTM and GRU Language Models and a Character-Level CNN, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), New Orleans, LA, March 2017.
 
