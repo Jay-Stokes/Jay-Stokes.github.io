@@ -95,7 +95,7 @@ Vikash Sehwag, Jack W. Stokes, and Cha Zhang, ”Beyond Lp Norms: Delving Deeper
 
 ## Bot Detection
 
-Greg Buehrer, Jack W. Stokes, and Kumar Chellapilla, A Large Scale Study of Automated of Automated Web Search Traffic, International Workshop on Adversarial Information Retrieval on the Web (AIRWEB), Beijing, April 22, 2008.
+Greg Buehrer, Jack W. Stokes, and Kumar Chellapilla, <a href="../files/buehrerairweb2008.pdf">A Large Scale Study of Automated of Automated Web Search Traffic</a>, International Workshop on Adversarial Information Retrieval on the Web (AIRWEB), Beijing, April 22, 2008.
 
 Greg Buehrer, Jack W. Stokes, Kumar Chellapilla, <a href="../files/ClassAutoSearchTraffic.pdf">Classification of Automated Web Traffic</a>, Chapter in Weaving Services and People on the World Wide Web, Editors: Irwin King, Ricardo Baeza-Yates, Springer, 2009, pp 3-26.
 
