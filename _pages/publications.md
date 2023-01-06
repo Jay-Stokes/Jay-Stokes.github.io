@@ -19,7 +19,7 @@ Talha Ongun, Jack W. Stokes, Jonathan Bar Or, Ke Tian, Farid Tajaddodianfar, Jos
 
 Jack W. Stokes, Rakshit Agrawal, Geoff McDonald, <a href="../files/VbsNet_Icassp2020.pdf">Detection of Malicious VBScript Using Static and Dynamic Analysis with Recurrent Deep Learning</a>, Proceedings IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
 
-Farid Tajaddodianfar, Jack W. Stokes, Arun Gururajan, <a href="../files/Texception_Icassp2020.pdf">Texception: A Character/Word-Level Deep Learning Model for Phishing URL Detection</a>, Proceedings IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
+Farid Tajaddodianfar, Jack W. Stokes, Arun Gururajan, <a href="../files/Texception_Icassp20.pdf">Texception: A Character/Word-Level Deep Learning Model for Phishing URL Detection</a>, Proceedings IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
 
 Edward J. Chou, Arun Gururajan, Kim Laine, Nitin Kumar Goel, Anna Bertiger, Jack W. Stokes, Privacy Preserving Phishing Web Page Classification Via Fully Homomorphic Encryption, Proceedings IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
 
