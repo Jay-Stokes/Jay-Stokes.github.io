@@ -47,7 +47,7 @@ Wenyi Huang, Jack W. Stokes, <a href="../files/HuangDimva2016.pdf">MtNet: A Mult
 
 Razvan Pascanu, Jack W. Stokes, Hermineh Sanossian, Mady Marinescu, Anil Thomas,  <a href="../files/pascanuIcassp2015.pdf">Malware Classification With Recurrent Networks</a>, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brisbane, Australia, April, 2015.
 
-George Dahl, Jack W. Stokes, Li Deng, Dong Yu, Large-Scale Malware Classification Using Random Projections and Neural Networks, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Vancouver, BC Canada, May, 2013.
+George Dahl, Jack W. Stokes, Li Deng, Dong Yu, <a href="../files/MalwareRandomProjections.pdf">Large-Scale Malware Classification Using Random Projections and Neural Networks</a>, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Vancouver, BC Canada, May, 2013.
 
 Nikos Karampatziakis, Jack W. Stokes, Anil Thomas, and Mady Marinescu, Using File Relationships in Malware Classification, Proceedings of Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), July 2012.
 
