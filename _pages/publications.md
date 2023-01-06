@@ -61,7 +61,7 @@ Maryam Zulfiqar, Muhammad Umar Janjua, Muhammad Hassan, Talha Ahmad, Tania; Sale
 
 Jinyuan Jia, Zheng Dong, Jie Li, Jack W. Stokes, <a href="../files/MaliciousDNS_ICASSP2021.pdf">Detection Of Malicious DNS and Web Servers using Graph-Based Approaches</a>,Proceedings IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June 2021, pp. 2625-2629.
 
-Gang Wang, Jack W. Stokes, Cormac Herley, David Felstead, Detecting Malicious Landing Pages in Distribution Networks, Malware, Proceedings IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2013), Budapest, Hungary, June, 2013.
+Gang Wang, Jack W. Stokes, Cormac Herley, David Felstead, <a href="../files/Wang_Dsn2013.pdf">Detecting Malicious Landing Pages in Distribution Networks</a>, Malware, Proceedings IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2013), Budapest, Hungary, June, 2013.
 
 Christian Seifert, Jack W. Stokes, Christina Colcernian, John C. Platt, and Long Lu, Robust Scareware Image Detection, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Vancouver, BC Canada, May, 2013.
 
