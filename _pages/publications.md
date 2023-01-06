@@ -29,7 +29,7 @@ Jack W. Stokes, Rakshit Agrawal, Geoff McDonald and Matthew Hausknecht, <a href=
 
 Yu Wang, Jack W. Stokes, Mady Marinescu, <a href="../files/NeuralMalwareControl_Milcom_2019.pdf">Neural Malware Control with Deep Reinforcement Learning</a>, Proceedings IEEE Military Communications Conference (MILCOM), Norfolk, VA, November 2019.
 
-Jack W. Stokes, Christian Seifert, Jerry Li and Nizar Hejazi, Detection of Prevalent Malware Families with Deep Learning, Proceedings IEEE Military Communications Conference (MILCOM), Norfolk, VA, November 2019.
+Jack W. Stokes, Christian Seifert, Jerry Li and Nizar Hejazi, <a href="../files/Siamese_Milcom2019.pdf">Detection of Prevalent Malware Families with Deep Learning</a>, Proceedings IEEE Military Communications Conference (MILCOM), Norfolk, VA, November 2019.
 
 Rakshit Agrawal, Jack W. Stokes, Karthik Selvaraj, Mady Marinescu, <a href="../files/AgrawalIcassp2019.pdf">Attention in Recurrent Neural Networks for Ransomware Detection</a>, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, England, May 2019.
 
