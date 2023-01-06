@@ -63,7 +63,7 @@ Jinyuan Jia, Zheng Dong, Jie Li, Jack W. Stokes, <a href="../files/MaliciousDNS_
 
 Gang Wang, Jack W. Stokes, Cormac Herley, David Felstead, <a href="../files/Wang_Dsn2013.pdf">Detecting Malicious Landing Pages in Distribution Networks</a>, Malware, Proceedings IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2013), Budapest, Hungary, June, 2013.
 
-Christian Seifert, Jack W. Stokes, Christina Colcernian, John C. Platt, and Long Lu, Robust Scareware Image Detection, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Vancouver, BC Canada, May, 2013.
+Christian Seifert, Jack W. Stokes, Christina Colcernian, John C. Platt, and Long Lu, <a href="../files/robustScarewareImageDetection.pdf">Robust Scareware Image Detection</a>, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Vancouver, BC Canada, May, 2013.
 
 Junjie Zhang, Christian Seifert, Jack W. Stokes, and Wenke Lee, ARROW: Generating Signatures to Detect Drive-By Downloads, Proceedings of 20th Annual World Wide Web Conference (WWW), March 28, 2011.
 
