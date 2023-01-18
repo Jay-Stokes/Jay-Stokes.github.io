@@ -89,7 +89,7 @@ Jack W. Stokes, Ashish Kapoor, and Debajyoti Ray, “Asking for a Second Opinion
 
 ## Security of Machine Learning Systems
 
-Jack W. Stokes, Paul England, and Kevin Kane, ”Preventing Machine Learning Poisoning Attacks Using Authentication and Provenance,” Proceedings IEEE Military Communications Conference (MILCOM), 2021, pp. 181-188.
+Jack W. Stokes, Paul England, and Kevin Kane, <a href="../files/VampMilcom2021.pdf">”Preventing Machine Learning Poisoning Attacks Using Authentication and Provenance</a>,” Proceedings IEEE Military Communications Conference (MILCOM), 2021, pp. 181-188.
 
 Vikash Sehwag, Jack W. Stokes, and Cha Zhang, ”Beyond Lp Norms: Delving Deeper into Robustness to Physical Image Transformations,” Proceedings IEEE Military Communications Conference (MILCOM), 2021, pp. 189-196.
 
