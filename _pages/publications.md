@@ -107,7 +107,7 @@ Kevin Bartz, Jack W. Stokes, John C. Platt, Ryan Kivett, David Grant, Silviu Cal
 
 Zhengyou Zhang, Qin Cai, and Jack W. Stokes, <a href="../files/IWAENC_MChanAEC_final.pdf">Multichannel Acoustic Echo Cancelation in Multiparty Spatial Audio Conferencing with Constrained Kalman Filtering</a>, International Workshop on Acoustic Echo and Noise Control (IWAENC), Seattle, WA, September 2008.
 
-Amit S. Chhetri and Jack W. Stokes, Acoustic Echo Cancellation for High Noise Environments, Proceedings IEEE Conference on Multimedia Expo (ICME), Toronto, July 2006.
+Amit S. Chhetri and Jack W. Stokes, <a href="../files/chhetri_icme2006.pdf">Acoustic Echo Cancellation for High Noise Environments</a>, Proceedings IEEE Conference on Multimedia Expo (ICME), Toronto, July 2006.
 
 Jack W. Stokes and John C. Platt, Robust RLS With Round Robin Regularization Including Application To Stereo Acoustic Echo Cancellation, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toulouse, France, May, 2006.
 
