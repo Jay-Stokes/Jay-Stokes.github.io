@@ -105,7 +105,7 @@ Kevin Bartz, Jack W. Stokes, John C. Platt, Ryan Kivett, David Grant, Silviu Cal
 
 ## Acoustic Echo Cancellation
 
-Zhengyou Zhang, Qin Cai, and Jack W. Stokes, Multichannel Acoustic Echo Cancelation in Multiparty Spatial Audio Conferencing with Constrained Kalman Filtering, International Workshop on Acoustic Echo and Noise Control (IWAENC), Seattle, WA, September 2008.
+Zhengyou Zhang, Qin Cai, and Jack W. Stokes, <a href="../files/IWAENC_MChanAEC_final.pdf">Multichannel Acoustic Echo Cancelation in Multiparty Spatial Audio Conferencing with Constrained Kalman Filtering</a>, International Workshop on Acoustic Echo and Noise Control (IWAENC), Seattle, WA, September 2008.
 
 Amit S. Chhetri and Jack W. Stokes, Acoustic Echo Cancellation for High Noise Environments, Proceedings IEEE Conference on Multimedia Expo (ICME), Toronto, July 2006.
 
