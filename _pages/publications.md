@@ -85,7 +85,7 @@ Jack W. Stokes, John C. Platt, Joseph Kravis, and Michael Shilman, <a href="../f
 
 ## Machine Learning
 
-Jack W. Stokes, Ashish Kapoor, and Debajyoti Ray, “Asking for a Second Opinion: Re-Querying of Noisy Multi-Class Labels”, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Shanghai, China, March, 2016.
+Jack W. Stokes, Ashish Kapoor, and Debajyoti Ray, <a href="../files/stokesIcassp2016.pdf">“Asking for a Second Opinion: Re-Querying of Noisy Multi-Class Labels</a>”, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Shanghai, China, March, 2016.
 
 ## Security of Machine Learning Systems
 
