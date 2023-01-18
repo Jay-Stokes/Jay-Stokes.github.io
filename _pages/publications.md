@@ -109,7 +109,7 @@ Zhengyou Zhang, Qin Cai, and Jack W. Stokes, <a href="../files/IWAENC_MChanAEC_f
 
 Amit S. Chhetri and Jack W. Stokes, <a href="../files/chhetri_icme2006.pdf">Acoustic Echo Cancellation for High Noise Environments</a>, Proceedings IEEE Conference on Multimedia Expo (ICME), Toronto, July 2006.
 
-Jack W. Stokes and John C. Platt, Robust RLS With Round Robin Regularization Including Application To Stereo Acoustic Echo Cancellation, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toulouse, France, May, 2006.
+Jack W. Stokes and John C. Platt, <a href="../files/roundrobinIcassp2006.pdf">Robust RLS With Round Robin Regularization Including Application To Stereo Acoustic Echo Cancellation</a>, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Toulouse, France, May, 2006.
 
 Jack W. Stokes and Henrique S. Malvar, Acoustic Echo Cancellation with Arbitrary Playback Sampling Rate, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Montreal, pp. IV-153 – IV-156, May 17-21, 2004.
 
