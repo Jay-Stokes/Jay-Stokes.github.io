@@ -139,7 +139,7 @@ Stokes, Jack W. and James A. Ritcey, <a href="../files/StokesGlobecom99.pdf">Eva
 
 Stokes, Jack W. and James A. Ritcey, <a href="../files/StokesGlobecom98.pdf">A General Method For Evaluating Outage Probabilities Using Pad´e Approximations</a>, Proceedings IEEE Global Telecommunications Conference, Sydney, vol. 3, pp. 1485-1490, Nov. 8-12, 1998.
 
-Stokes, Jack W. and James A. Ritcey, Error Probabilities of Synchronous DS/CDMA Systems with Random and Deterministic Signature Sequences for Ideal and Fading Channels, Proceedings IEEE International Communications Conference, Dallas, vol. 3, pp. 1518-1522, June 23-27, 1996.
+Stokes, Jack W. and James A. Ritcey, <a href="../files/stokesIcc96.pdf">Error Probabilities of Synchronous DS/CDMA Systems with Random and Deterministic Signature Sequences for Ideal and Fading Channels</a>, Proceedings IEEE International Communications Conference, Dallas, vol. 3, pp. 1518-1522, June 23-27, 1996.
 
 ## Control Theory
 
