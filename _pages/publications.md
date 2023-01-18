@@ -129,7 +129,7 @@ Mohammad A. Iqbal, Steven L. Grant, Jack W. Stokes, A Frequency Domain Doubletal
 
 ## Speaker Identification 
 
-Jack W. Stokes, John C. Platt, and Sumit Basu, Speaker Identification Using a Microphone Array and a Joint HMM with Speech Spectrum and Angle of Arrival, Proceedings IEEE Conference on Multimedia Expo ICME ’06, Toronto, July 2006.
+Jack W. Stokes, John C. Platt, and Sumit Basu, <a href="../files/jointhmmIcme06.pdf">Speaker Identification Using a Microphone Array and a Joint HMM with Speech Spectrum and Angle of Arrival</a>, Proceedings IEEE Conference on Multimedia Expo ICME ’06, Toronto, July 2006.
 
 ## Wireless Communications
 
