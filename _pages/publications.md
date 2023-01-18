@@ -101,7 +101,7 @@ Greg Buehrer, Jack W. Stokes, Kumar Chellapilla, <a href="../files/ClassAutoSear
 
 ## Operating Systems and Machine Learning
 
-Kevin Bartz, Jack W. Stokes, John C. Platt, Ryan Kivett, David Grant, Silviu Calinoiu and Gretchen Loihle, <a href="../files/bartzSysML2008.pdf">Finding Similar Failures Using Callstack Similarity</a>, Workshop on Tackling Computer Systems Problems with Machine Learning Techniques (SysML), San Diego, CA 2008
+Kevin Bartz, Jack W. Stokes, John C. Platt, Ryan Kivett, David Grant, Silviu Calinoiu and Gretchen Loihle, <a href="../files/bartzSysMl2008.pdf">Finding Similar Failures Using Callstack Similarity</a>, Workshop on Tackling Computer Systems Problems with Machine Learning Techniques (SysML), San Diego, CA 2008
 
 ## Acoustic Echo Cancellation
 
