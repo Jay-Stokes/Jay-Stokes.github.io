@@ -121,7 +121,7 @@ Diego A. Bendersky, Jack W. Stokes and Henrique S. Malvar, <a href="../files/die
 
 ## Double Talk Detection
 
-Mohammad A. Iqbal, Jack W. Stokes, and Steven L. Grant, Normalized Double-Talk Detection Based on Microphone and AEC Error Cross-Correlation, Proceedings IEEE Conference on Multimedia (ICME), Beijing 2007.
+Mohammad A. Iqbal, Jack W. Stokes, and Steven L. Grant, <a href="../files/diegobenderskyhdres.pdf">Normalized Double-Talk Detection Based on Microphone and AEC Error Cross-Correlation</a>, Proceedings IEEE Conference on Multimedia (ICME), Beijing 2007.
 
 Mohammad A. Iqbal, Jack W. Stokes, John C. Platt, Arun C. Surendran, and Steven L. Grant, DoubleTalk Detection using Real-time Recurrent Learning, International Workshop on Acoustic Echo and Noise Control (IWAENC), Paris, France, September 2006
 
