@@ -141,10 +141,10 @@ Stokes, Jack W. and James A. Ritcey, <a href="../files/StokesGlobecom98.pdf">A G
 
 Stokes, Jack W. and James A. Ritcey, <a href="../files/stokesIcc96.pdf">Error Probabilities of Synchronous DS/CDMA Systems with Random and Deterministic Signature Sequences for Ideal and Fading Channels</a>, Proceedings IEEE International Communications Conference, Dallas, vol. 3, pp. 1518-1522, June 23-27, 1996.
 
-## Control Theory          
+## Control Theory          https://www.sciencedirect.com/science/article/abs/pii/014193319190100T
 
 Jay Stokes and Guy R. L. Sohie, <a href="https://www.sciencedirect.com/science/article/abs/pii/014193319190111R">Implementation of PID Controllers on the Motorola DSP56000/ DSP56001, Part 1</a>, Microprocessors Microsystems, Elsevier, Volume 15, Issue 6, pp 321 – 331, July-August 1991.
 
-Jay Stokes and Guy R. L. Sohie, Implementation of PID Controllers on the Motorola DSP56000/ DSP56001, Part 2, Microprocessors Microsystems, Elsevier, Volume 15, Issue 7, pp 385 – 392, September 1991.
+Jay Stokes and Guy R. L. Sohie, <a href="https://www.sciencedirect.com/science/article/abs/pii/014193319190100T">Implementation of PID Controllers on the Motorola DSP56000/ DSP56001, Part 2</a>, Microprocessors Microsystems, Elsevier, Volume 15, Issue 7, pp 385 – 392, September 1991.
 
 Jay Stokes and Guy R. L. Sohie, Implementation of PID Controllers on the Motorola DSP56000/ DSP56001, Motorola Literature Distribution, Application Note APR5/D, 1989.
