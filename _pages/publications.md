@@ -133,7 +133,7 @@ Jack W. Stokes, John C. Platt, and Sumit Basu, Speaker Identification Using a Mi
 
 ## Wireless Communications
 
-Stokes, Jack W. and James A. Ritcey, Performance Analysis of DS/CDMA Systems with Shadowing and Flat Fading, Signal Processing, 81, pp.2555-2571, 2001.
+Stokes, Jack W. and James A. Ritcey, <a href="../files/sigProcNci.pdf">Performance Analysis of DS/CDMA Systems with Shadowing and Flat Fading</a>, Signal Processing, 81, pp.2555-2571, 2001.
 
 Stokes, Jack W. and James A. Ritcey, <a href="../files/StokesGlobecom99.pdf">Evaluation of Error Probabilities for General Signal Constellations</a>, Proceedings IEEE Global Telecommunications Conference, Rio de Janeiro, pp. 909-913, Dec. 5-9, 1999.
 
