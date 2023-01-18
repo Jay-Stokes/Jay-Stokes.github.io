@@ -117,7 +117,7 @@ Jack W. Stokes and Henrique S. Malvar, Acoustic Echo Cancellation with Arbitrary
 
 Amit S. Chhetri, Arun C. Surendran, Jack W. Stokes and John C. Platt, Regression-Based Residual Acoustic Echo Suppression, International Workshop on Acoustic Echo and Noise Control (IWAENC), Eindhoven, Netherlands, September 2005.
 
-Diego A. Bendersky, Jack W. Stokes and Henrique S. Malvar, Nonlinear Residual Acoustic Echo Suppression for High Levels of Harmonic Distortion, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Las Vegas, March 30-April 4, 2008.
+Diego A. Bendersky, Jack W. Stokes and Henrique S. Malvar, <a href="../files/diegobenderskyhdres.pdf">Nonlinear Residual Acoustic Echo Suppression for High Levels of Harmonic Distortion</a>, Proceedings IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP), Las Vegas, March 30-April 4, 2008.
 
 ## Double Talk Detection
 
